@@ -1,0 +1,29 @@
+{
+  "name": "stellar-live-polls",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Real-time on-chain voting DApp built on Stellar Soroban Smart Contracts",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@stellar/freighter-api": "^3.0.0",
+    "@stellar/stellar-sdk": "^13.1.0",
+    "@tailwindcss/postcss": "^4.3.2",
+    "axios": "^1.6.0",
+    "lucide-react": "^0.400.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sonner": "^1.4.0",
+    "tailwindcss": "^4.3.2",
+    "zustand": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.2.0"
+  }
+}
