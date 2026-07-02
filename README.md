@@ -10,6 +10,12 @@
 
 ---
 
+## 🎬 Demo Video (1 Min)
+
+👉 **https://www.loom.com/share/9387c8b51906454e94813104f8892b06**
+
+---
+
 ## 🟡 Level 2 – Yellow Belt Requirements
 
 | Requirement | Status |
