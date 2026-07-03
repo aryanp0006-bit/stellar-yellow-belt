@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 **https://stellar-yellow-belt-6dr7.vercel.app/**
+👉 **https://stellar-yellow-belt-kohl.vercel.app/**
 
 ---
 
